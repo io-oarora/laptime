@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/landing/logo.png</file>
+        <file>images/landing/info.png</file>
+        <file>images/landing/arrow.png</file>
+        <file>images/customItems/close.png</file>
+        <file>images/session/add.png</file>
+        <file>images/session/ready.png</file>
+        <file>images/session/readyDisabled.png</file>
+        <file>images/session/arrow.png</file>
+        <file>images/session/edit.png</file>
+        <file>images/session/play.png</file>
+        <file>images/session/stop.png</file>
+        <file>images/session/pause.png</file>
+        <file>images/session/delete.png</file>
+        <file>images/landing/logo_small.png</file>
+    </qresource>
+</RCC>

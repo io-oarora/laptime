@@ -1,0 +1,6 @@
+module Landing
+
+Info 1.0 Info.qml
+LandingScreen 1.0 LandingScreen.qml
+Sidebar 1.0 Sidebar.qml
+SidebarMenuItem 1.0 SidebarMenuItem.qml

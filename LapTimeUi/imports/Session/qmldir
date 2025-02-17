@@ -1,0 +1,14 @@
+module Session
+
+CloseButton 1.0 CloseButton.qml
+ReadyButton 1.0 ReadyButton.qml
+SessionEdit 1.0 SessionEdit.qml
+SessionRun 1.0 SessionRun.qml
+SessionSet 1.0 SessionSet.qml
+SessionSetEdit 1.0 SessionSetEdit.qml
+SessionSetEditButton 1.0 SessionSetEditButton.qml
+SessionSetEditDuration 1.0 SessionSetEditDuration.qml
+SessionSetEditSummary 1.0 SessionSetEditSummary.qml
+SessionSetEditValue 1.0 SessionSetEditValue.qml
+SessionSummary 1.0 SessionSummary.qml
+SessionView 1.0 SessionView.qml

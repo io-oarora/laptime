@@ -1,0 +1,9 @@
+module CustomControls
+
+CustomDialog 1.0 CustomDialog.qml
+CustomModal 1.0 CustomModal.qml
+CustomMouseArea 1.0 CustomMouseArea.qml
+CustomScrollBar 1.0 CustomScrollBar.qml
+CustomTumbler 1.0 CustomTumbler.qml
+ImageButton 1.0 ImageButton.qml
+TextButton 1.0 TextButton.qml

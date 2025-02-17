@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>imports/Landing/Sidebar.qml</file>
+        <file>imports/Landing/qmldir</file>
+        <file>imports/Themes/LapTimeTheme.qml</file>
+        <file>imports/Themes/qmldir</file>
+        <file>imports/CustomControls/CustomMouseArea.qml</file>
+        <file>imports/CustomControls/qmldir</file>
+        <file>imports/CustomItems/CustomImage.qml</file>
+        <file>imports/CustomItems/qmldir</file>
+        <file>imports/CustomItems/CustomShadow.qml</file>
+        <file>imports/CustomItems/CustomLabel.qml</file>
+        <file>imports/Landing/SidebarMenuItem.qml</file>
+        <file>imports/CustomControls/ImageButton.qml</file>
+        <file>imports/Landing/LandingScreen.qml</file>
+        <file>imports/CustomItems/CustomOverlay.qml</file>
+        <file>imports/Landing/Info.qml</file>
+        <file>imports/Session/SessionView.qml</file>
+        <file>imports/Session/qmldir</file>
+        <file>imports/Presets/PresetsScreen.qml</file>
+        <file>imports/Presets/qmldir</file>
+        <file>imports/History/HistoryScreen.qml</file>
+        <file>imports/History/qmldir</file>
+        <file>imports/CustomItems/Underline.qml</file>
+        <file>imports/Session/ReadyButton.qml</file>
+        <file>imports/CustomControls/CustomScrollBar.qml</file>
+        <file>imports/Session/SessionSet.qml</file>
+        <file>imports/Session/SessionSetEdit.qml</file>
+        <file>imports/CustomControls/TextButton.qml</file>
+        <file>imports/Session/SessionSetEditButton.qml</file>
+        <file>imports/CustomControls/CustomTumbler.qml</file>
+        <file>imports/Session/SessionSetEditValue.qml</file>
+        <file>imports/Session/SessionSetEditDuration.qml</file>
+        <file>imports/Session/SessionSetEditSummary.qml</file>
+        <file>imports/Session/SessionSummary.qml</file>
+        <file>imports/Session/CloseButton.qml</file>
+        <file>imports/Session/SessionEdit.qml</file>
+        <file>imports/Session/SessionRun.qml</file>
+        <file>imports/CustomItems/ProgressRing.qml</file>
+        <file>imports/CustomControls/CustomDialog.qml</file>
+        <file>imports/CustomControls/CustomModal.qml</file>
+        <file>imports/CustomItems/CustomInfoBox.qml</file>
+        <file>imports/CustomItems/Toast.qml</file>
+    </qresource>
+</RCC>

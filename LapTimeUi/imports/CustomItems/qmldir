@@ -1,0 +1,10 @@
+module CustomItems
+
+CustomImage 1.0 CustomImage.qml
+CustomInfoBox 1.0 CustomInfoBox.qml
+CustomLabel 1.0 CustomLabel.qml
+CustomOverlay 1.0 CustomOverlay.qml
+CustomShadow 1.0 CustomShadow.qml
+ProgressRing 1.0 ProgressRing.qml
+Toast 1.0 Toast.qml
+Underline 1.0 Underline.qml

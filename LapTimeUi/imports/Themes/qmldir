@@ -1,0 +1,3 @@
+module Themes
+
+singleton LapTimeTheme 1.0 LapTimeTheme.qml

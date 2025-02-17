@@ -1,0 +1,6 @@
+# Qt
+*.pro.user
+build/
+
+# iOS
+.DS_Store
